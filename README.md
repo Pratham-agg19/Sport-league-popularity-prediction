@@ -1,0 +1,1 @@
+We aim to explore how public interest in major sports leagues evolves over time. Using Google Trends data provides a real-time, historical lens into user behavior. By forecasting future popularity patterns, stakeholders (e.g., broadcasters, marketers) can make informed decisions.
